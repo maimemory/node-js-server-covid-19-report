@@ -1,12 +1,7 @@
 {
-    "Confirmed": 633284,
-    "Recovered": 419241,
-    "Hospitalized": 208875,
-    "Deaths": 5168,
-    "NewConfirmed": 17970,
-    "NewRecovered": 13919,
-    "NewHospitalized": 3873,
-    "NewDeaths": 178,
-    "UpdateDate": "02\/08\/2021 12:22",
-    "DevBy": "https:\/\/www.kidkarnmai.com\/"
+    "Confirmed": 652185,
+    "Deaths": 5221,
+    "NewConfirmed": 18901,
+    "NewDeaths": 147,
+    "UpdateDate": "03\/08\/2021 09:09"
 }
