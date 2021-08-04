@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 8000;
 http
     .createServer((req, res) => {
         fs.readFile("data.json", (err, data) => {
-            res.writeHead(200, { "Content-Type": "text/html" });
+            res.writeHead(200, { "Content-Type": "text/json" });
             res.write(data);
             return res.end();
         });
